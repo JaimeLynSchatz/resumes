@@ -2,7 +2,7 @@
 #####7001 Old Redmond Road H132 - Redmond, WA 98052 - jaimelynschatz@gmail.com - (425) 351-4601
 
 ### EDUCATION AND CERTIFICATIONS
-----
+______
 **Microsoft Certified Programmer in HTML5 with JavaScript and CSS3 (3/13) (MCP exam 70-480)**
 
 **Udacity.com “Introduction to Computer Science: Building a Search Engine” with High Distinction (5/12)**
