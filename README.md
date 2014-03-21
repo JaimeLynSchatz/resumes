@@ -1,8 +1,7 @@
 # Jaime Lyn Schatz
 #####7001 Old Redmond Road H132 - Redmond, WA 98052 - jaimelynschatz@gmail.com - (425) 351-4601
 
-### EDUCATION AND CERTIFICATIONS
-______
+# EDUCATION AND CERTIFICATIONS
 **Microsoft Certified Programmer in HTML5 with JavaScript and CSS3 (3/13) (MCP exam 70-480)**
 
 **Udacity.com “Introduction to Computer Science: Building a Search Engine” with High Distinction (5/12)**
@@ -13,14 +12,12 @@ ______
 **Sarah Lawrence College (8/94 – 5/95)**
 <br />*3.85 GPA*
 
-### PROJECTS
-----
+# PROJECTS
 **[Win-Deck, A Hacked Up Haiku Deck for Windows](https://github.com/JaimeLynSchatz/win-deck)**
 <br />**[MiniPaint, A Tiny First Try at a Paint Program](https://github.com/JaimeLynSchatz/MiniPaint)**
 <br />**[Mean-Bob, A Snobby, Snarky Little Chat Bot](https://github.com/JaimeLynSchatz/mean-bob)**
 
-### **OTHER WORK EXPERIENCE**
-----
+# **OTHER WORK EXPERIENCE**
 **Rite Aid Pharmacy - HQ: Camp Hill, Pennsylvania**
 <br />*Assistant Store Manager (10/10 - Present)*
 <br />*Shift Supervisor (6/07 - 10/10 and 6/05 - 7/06)*
