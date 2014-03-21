@@ -10,6 +10,10 @@
 
 **Sarah Lawrence College (8/94 – 5/95)**<br>*3.85 GPA*
 
+### PROJECTS
+**[Win-Deck, A Hacked Up Haiku Deck for Windows](https://github.com/JaimeLynSchatz/win-deck)
+**[MiniPaint, A Tiny First Try at a Paint Program](https://github.com/JaimeLynSchatz/MiniPaint)
+
 ### **OTHER WORK EXPERIENCE**
 **Rite Aid Pharmacy - HQ: Camp Hill, Pennsylvania**<br>*Assistant Store Manager (10/10 - Present)*<br>*Shift Supervisor (6/07 - 10/10 and 6/05 - 7/06)*<br>*Front End Associate (4/05 - 7/05)*
 + Interview and help hire/on-board new associates
