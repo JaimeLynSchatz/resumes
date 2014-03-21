@@ -13,8 +13,8 @@
 <br />*3.85 GPA*
 
 ### PROJECTS
-**[Win-Deck, A Hacked Up Haiku Deck for Windows](https://github.com/JaimeLynSchatz/win-deck)
-<br /> **[MiniPaint, A Tiny First Try at a Paint Program](https://github.com/JaimeLynSchatz/MiniPaint)
+**[Win-Deck, A Hacked Up Haiku Deck for Windows](https://github.com/JaimeLynSchatz/win-deck)**
+<br />**[MiniPaint, A Tiny First Try at a Paint Program](https://github.com/JaimeLynSchatz/MiniPaint)**
 
 ### **OTHER WORK EXPERIENCE**
 **Rite Aid Pharmacy - HQ: Camp Hill, Pennsylvania**
