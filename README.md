@@ -25,9 +25,8 @@
 + Interview and help hire/on-board new associates
 + Troubleshoot payroll issues and help resolve HR-related and interpersonal conflicts
 + Create weekly schedules and approve payroll as needed
-+ Coordinate promotional displays and purchases with a wide variety of third-party vendors
 + Developed new systems for inventory control and daily duties with the Store Manager
-+ Enforce compliance with monthly computer-based training for all associates in the store
++ Enforce compliance with monthly computer-based training for all associates
 
 **Carnegie Hall - New York, New York**
 <br />*Assistant to the Director, Friends Membership Department (4/01 – 7/02)*
