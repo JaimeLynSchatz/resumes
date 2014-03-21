@@ -57,11 +57,9 @@
 <br />*Local Board Vice Chair, Intern (2/97 – 5/97)*
 + Helped organize NYPIRG’s annual state-wide Fall Conference in Binghamton, Leadership Training in Albany and four State Board Trainings
 + Recruited, organized and trained the
- br /ooklyn College student delegation for the state-wide Higher Education Lobby Day in Albany in March 1997
+ Brooklyn College student delegation for the state-wide Higher Education Lobby Day in Albany in March 1997
 + Co-organizer of the Global Warming Rally at the United Nations Building in June 1997
-+ Facilitated a borough-wide press conference with State Assemblymember Joan Millman, the American Cancer Society, the New York State Association of Nurses,
- br /ooklyn Weekly papers and NY 1 News in F
- ebr /uary 1998
++ Facilitated a borough-wide press conference with State Assemblymember Joan Millman, the American Cancer Society, the New York State Association of Nurses, Brooklyn Weekly papers and NY 1 News in February 1998
 + Helped to register hundreds of new citizens to vote following citizenship ceremonies at
- br /ooklyn Federal Courthouse
+ Brooklyn Federal Courthouse
 + Built working coalitions with campus organizations such as Black Family, the Hillel Foundation, Greek Letter Association, the Puerto Rican Alliance, Professional Staff Congress and the Veterans’ Association
