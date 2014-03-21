@@ -1,7 +1,16 @@
 # Jaime Lyn Schatz
 #####7001 Old Redmond Road H132 - Redmond, WA 98052 - jaimelynschatz@gmail.com - (425) 351-4601
 
-### **WORK EXPERIENCE**
+### EDUCATION AND CERTIFICATIONS
+**Microsoft Certified Programmer in HTML5 with JavaScript and CSS3 (3/13) (MCP exam 70-480)**
+
+**Udacity.com “Introduction to Computer Science: Building a Search Engine” with High Distinction (5/12)**
+
+**Brooklyn College, City University of New York (8/95 – 5/98)**<br>*Bachelor of Arts, Political Science 3.84 GPA*
+
+**Sarah Lawrence College (8/94 – 5/95)**<br>*3.85 GPA*
+
+### **OTHER WORK EXPERIENCE**
 **Rite Aid Pharmacy - HQ: Camp Hill, Pennsylvania**<br>*Assistant Store Manager (10/10 - Present)*<br>*Shift Supervisor (6/07 - 10/10 and 6/05 - 7/06)*<br>*Front End Associate (4/05 - 7/05)*
 + Interview and help hire/on-board new associates
 + Troubleshoot payroll issues and help resolve HR-related and interpersonal conflicts
@@ -37,13 +46,3 @@
 + Facilitated a borough-wide press conference with State Assemblymember Joan Millman, the American Cancer Society, the New York State Association of Nurses, Brooklyn Weekly papers and NY 1 News in February 1998
 + Helped to register hundreds of new citizens to vote following citizenship ceremonies at Brooklyn Federal Courthouse
 + Built working coalitions with campus organizations such as Black Family, the Hillel Foundation, Greek Letter Association, the Puerto Rican Alliance, Professional Staff Congress and the Veterans’ Association
-
-
-### EDUCATION AND CERTIFICATIONS
-**Microsoft Certified Programmer in HTML5 with JavaScript and CSS3 (3/13) (MCP exam 70-480)**
-
-**Udacity.com “Introduction to Computer Science: Building a Search Engine” with High Distinction (5/12)**
-
-**Brooklyn College, City University of New York (8/95 – 5/98)**<br>*Bachelor of Arts, Political Science 3.84 GPA*
-
-**Sarah Lawrence College (8/94 – 5/95)**<br>*3.85 GPA*
