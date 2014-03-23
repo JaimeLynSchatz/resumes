@@ -32,8 +32,7 @@
 <br />*Assistant to the Director, Friends Membership Department (4/01 – 7/02)*
 + Created de-duper to remove duplicates left over in database “buy” for solicitation leads
 + Developed tracking and reporting system in Excel to allow for faster daily reporting to Director
-+ Assisted with planning, prep and execution of special events like Opening Night Gala
-+ Responded to donor inquires by phone and mail
++ Assisted with planning, prep and execution of high-profile special events like Opening Night Gala
 
 **The Legal Aid Society of New York - New York, New York**
 <br />*Office Manager (4/99 – 10/00)*
