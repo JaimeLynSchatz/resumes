@@ -1,6 +1,9 @@
 # Jaime Lyn Schatz
 #####7001 Old Redmond Road H132 - Redmond, WA 98052 - jaimelynschatz@gmail.com - (425) 351-4601
 
+# Summary
+I bring together the tenacity of a self-taught developer, the communication skills of a community organizer, the ingenuity of a fundraiser and the bottom-line sensibility of a manager.
+
 # Education and Certifications
 **Microsoft Certified Programmer in HTML5 with JavaScript and CSS3 (3/13) (MCP exam 70-480)**
 
@@ -20,8 +23,6 @@
 # Other Work Experience
 **Rite Aid Pharmacy - HQ: Camp Hill, Pennsylvania**
 <br />*Assistant Store Manager (10/10 - Present)*
-<br />*Shift Supervisor*
-<br />*Front End Associate*
 + Interview and help hire/on-board new associates
 + Troubleshoot payroll issues and help resolve HR-related and interpersonal conflicts
 + Create weekly schedules and approve payroll as needed
@@ -39,11 +40,6 @@
 + Directed transition from intra-office to out-sourced case file management system
 + Consolidated off-site office space, staff and equipment into main office location
 + Developed and instituted improved personnel, outside vendor and inventory record-keeping systems
-
-*Paralegal*
-+ Wrote summary reports for attorneys in preparation of court activity
-+ Interviewed juveniles in detention, served court papers and assisted with home visits
-
 
 **The New York Public Interest Research Group, Inc. (NYPIRG) – New York, New York**
 <br />*Executive Committee Member of the State Board of Directors, Local Board Chair*
